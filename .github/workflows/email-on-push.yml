@@ -36,7 +36,7 @@ jobs:
         uses: peter-evans/sendgrid-action@v1
         env:
           SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
-          SCRIPT_FILEPATH: ./src/email-sending-script.js
+          SCRIPT_FILEPATH: ./src/send-email.js
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
