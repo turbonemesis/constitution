@@ -30,7 +30,7 @@ jobs:
       
             # Runs a single command using the runners shell
       - name: Compile typescript
-        run: bash node_modules/.bin/tsc -p tsconfig.json
+        run: ./node_modules/.bin/tsc -p tsconfig.json
       
       - name: SendGrid
         uses: peter-evans/sendgrid-action@v1
