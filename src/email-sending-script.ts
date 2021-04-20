@@ -7,7 +7,7 @@ sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 const fs = require('fs'),
     filename = 'CODE OF CONDUCT.pdf',
     fileType = 'application/pdf',
-    data = fs.readFileSync(join(__dirname, `attachments/${filename}`));
+    data = fs.readFileSync(join(__dirname, `assets/attachments/${filename}`));
 
 const msg = {
     to: 'chase@rentdynamics.com',
