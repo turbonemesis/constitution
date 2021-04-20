@@ -1,17 +1,18 @@
 #! /usr/bin/env node
 
+const { join } = require('path');
 const sgMail = require('@sendgrid/mail');
 sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
 const fs = require('fs'),
-    filename = 'hello-world.pdf',
+    filename = 'CODE OF CONDUCT.pdf',
     fileType = 'application/pdf',
-    data = fs.readFileSync('attachments/' + filename);
+    data = fs.readFileSync(join(__dirname, `attachments/${filename}`));
 
 const msg = {
-    to: 'recipient@example.org',
-    from: 'sender@example.org',
-    subject: 'Hello world',
+    to: 'chase@rentdynamics.com',
+    from: 'rd-flex@zoot.dev',
+    subject: 'Constitution Changed',
     text: 'Hello plain world!',
     html: '<p>Hello HTML world!</p>',
     attachments: [
