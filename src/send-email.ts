@@ -4,7 +4,7 @@ const { join } = require('path');
 const sgMail = require('@sendgrid/mail');
 sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 
-const fs = require('fs'),
+const fs = require('fs'), 
     filename = 'CODE OF CONDUCT.pdf',
     fileType = 'application/pdf',
     data = fs.readFileSync(join(__dirname, `assets/attachments/${filename}`));
@@ -29,3 +29,4 @@ sgMail
     .send(msg)
     .then(() => console.log('Mail sent successfully'))
     .catch(error => console.error(error.toString()));
+    

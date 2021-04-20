@@ -1,0 +1,13 @@
+
+// Place your settings in this file to overwrite the default settings
+{
+    "typescript.check.tscVersion": false,
+    "files.exclude": {
+        "**/*.js": {
+            "when": "$(basename).ts"
+        },
+        "**/*.map": {
+            "when": "$(basename).map"
+        }
+    }
+}
