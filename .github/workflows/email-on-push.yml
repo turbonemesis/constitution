@@ -25,6 +25,13 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       
+      - name: Dependency install
+        run: yarn
+      
+            # Runs a single command using the runners shell
+      - name: Compile typescript
+        run: tsc -p tsconfig.json
+      
       - name: SendGrid
         uses: peter-evans/sendgrid-action@v1
         env:
