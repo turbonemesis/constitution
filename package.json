@@ -1,0 +1,7 @@
+{
+  "name": "@rd/constitution",
+  "devDependencies": {
+    "@sendgrid/mail": "7.4.2",
+    "@types/node": "^14.14.41"
+  }
+}
