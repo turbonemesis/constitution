@@ -1,5 +1,9 @@
 {
   "name": "@rd/constitution",
+  "scripts": {
+    "build": "echo 'not implemented'",
+    "test": "echo 'not implemented'"
+  },
   "devDependencies": {
     "@sendgrid/mail": "7.4.2",
     "@types/node": "^14.14.41",
