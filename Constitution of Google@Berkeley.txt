@@ -16,7 +16,8 @@ Article II - Purpose
 
 The purpose of this organization shall be:
 
-• To provide an official way of defining cross-team style guides applicable to {CompanyName}'s entire codebase
+• To provide an official way of defining cross-team conventions which are applicable to {CompanyName}'s entire codebase
+• To 
 
 
 
