@@ -118,6 +118,7 @@ C. The Secretary shall:
 ARTICLE V: LEGISLATIVE BRANCH
 Section 1 – Name
 The Legislative Branch shall be referred to hereafter as the “Senate.”
+
 Section 2 – Membership
 The membership of the Senate shall consist of representatives from each of the following:
 A. College of Agriculture and Human Ecology
@@ -139,6 +140,7 @@ M. Accessibility and Inclusion
 N. Reserve Officers Training Corp (R.O.T.C.)
 O. International Students
 P. Multicultural Affairs
+
 Section 3 – Composition
 A. College/School Representation:
 1. Apportionment of representatives in the Senate shall be one (1) Senator for every three
@@ -173,10 +175,13 @@ academic year.
 H. Multicultural Affairs student representation shall consist of two (2) students appointed by the
 Office of Multicultural Affairs at the end of the spring semester to serve during the upcoming
 academic year.
+
 Section 4 – Apportionment of Representatives
 The Executive Council shall be responsible for reapportionment of the Senators during the spring
 semester if vacancies occur. This shall be completed no later than the third (3rd) Senate meeting of the
 spring semester.
+
+
 Section 5 – Qualifications
 A. Senators shall be full-time students during their term of office.
 B. Senators shall maintain a 2.75 cumulative grade point average throughout his/her term of
@@ -188,6 +193,7 @@ qualified them to be Senators.
 E. The Freshmen Senators shall not be more than second semester freshmen during the fall
 semester of the year that they are appointed.
 F. Failure of any senator to maintain these minimum requirements shall necessitate resignation
+
 Section 6 – Duties and Powers
 The Senate shall have the option of exercising the following duties and powers:
 A. Approve and maintain a budget
@@ -398,13 +404,16 @@ B. The order of business shall be as follows –
 11. Executive Council Reports
 12. Announcements
 13. Adjournment
+
 Section 2 – Communication
 A. Each Senator’s prime obligation shall be to represent the interests of his/her constituency.
 B. Any member of the Senate may submit legislation in the form of bills and/or resolutions
 concerning student interests.
+
 Section 3 – Quorum
 Quorum for consideration of business shall consist of two-thirds majority of the total voting members of
 the Senate.
+
 Section 4 – Attendance
 A. Attendance at all Senate functions is required of all members. Absences will be limited to two
 (2) unexcused absences from any Senate meeting per semester, one (1) unexcused absence
@@ -418,6 +427,8 @@ C. No member shall be allowed more than two (2) unexcused absences per semester.
 President shall have the implied power to request immediate resignation of said Senator. This
 position shall be filled within two (2) weeks by the SGA President or a committee appointed by
 the SGA President.
+
+
 Section 5 – Senatorial Action on Bills
 A. Definition – The term “bill” shall be any act of the Senate that shall affect a change throughout
 the University.
@@ -440,6 +451,7 @@ changed in the final section statement.
 C. A bill is considered passed when a simple majority of Senators present vote for passage.
 D. Amendments to a bill may be made by a simple majority vote of members present and/or with
 the consent of the bill’s main sponsor.
+
 Section 6 – Senate Action on Resolutions
 A. The resolution is defined as in the latest edition Robert’s Rules of Order: Newly Revised.
 B. Resolutions may be adopted by a simple majority vote of the members present.
@@ -449,10 +461,12 @@ Section 7 – Parliamentarian
 A. The Chief of Staff shall act as parliamentarian for all Senate.
 B. Parliamentarian shall have the ultimate power in settling all disputes in the Senate arising out of
 parliamentary procedure.
+
 Section 8 – Sergeant-At-Arms
 A. The Chief of Staff shall act as Sergeant-At-Arms for all Senate meetings.
 B. At the discretion of the Speaker of the Senate, the Sergeant-At-Arms shall have the power to
 remove anyone causing a disturbance from the Senate chambers.
+
 Section 9 – Speaker Pro-Tempore
 A. Shall be a Speaker Pro-Tempore elected by the Senate before the third (3rd) meeting of the new
 Senate in the fall. The term of office shall be one academic year.
