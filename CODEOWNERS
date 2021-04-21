@@ -1,0 +1,18 @@
+# This is an example of a code owners file
+# lines starting with a `#` will be ignored.
+# https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
+
+# We can specify a default global match using wildcards:
+* @RentDynamics/qa
+
+# Code Owners section:
+# changes to redux
+store/ @chase2981
+reducers/ @chase2981
+
+# changes to deploy
+deploy/ @levicus @chase2981
+.circleci/ @levicus @chase2981
+
+# changes to actual codeowners file
+CODEOWNERS @chase2981 @RentDynamics/qa @levicus
