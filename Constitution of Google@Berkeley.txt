@@ -16,7 +16,7 @@ Article II - Purpose
 
 The purpose of this organization shall be:
 
-• To provide an official way of defining cross-team style guidelines applicable to {CompanyName}'s entire codebase
+• To provide an official way of defining cross-team style guides applicable to {CompanyName}'s entire codebase
 
 
 
@@ -164,7 +164,14 @@ regulations.
 
 Article XIV: Ratification
 
+Article XIV - RATIFICATION
 
+Section 1: This Constitution shall become effective upon ratification by
+a majority of the active members voting in a special election.
+
+Section 2: All previous ASB rules, regulations, and legislation which are
+in conflict, any previous constitutions shall become null and
+void upon adoption of this constitution.
 
 
 Article VII - Dissolution
