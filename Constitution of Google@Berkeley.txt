@@ -31,6 +31,7 @@ registered student organization. Only active members may vote or hold office.
 
 
 Arcticle IV - Executive Procedures
+
 Section 4 – Schedule of Meetings
 The time and frequency of Senate meetings for that semester shall be determined at the first meeting of
 the Executive Cabinet, which shall be called by the President.
@@ -120,7 +121,7 @@ the Senate.
 
 Section 5 – Senatorial Action on Bills
 A. Definition – The term “bill” shall be any act of the Senate that shall affect a change throughout
-the University.
+the codebase.
 B. Bills shall be typewritten and delivered to the Secretary with the following format.
 1. Title must be written single spaced
 2. A brief description of the bill
@@ -178,4 +179,4 @@ void upon adoption of this constitution.
 Article VII - Dissolution
 
 
-Dissolution will be declared if 90% of the group members vote to dissolve. 
+Dissolution will be declared if 90% of the active group members vote to dissolve. 
