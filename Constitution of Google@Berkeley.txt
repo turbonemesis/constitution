@@ -1,31 +1,23 @@
 ﻿https://github.com/chase2981/angular-styleguide/tree/master/a2
 
 
-Constitution of Google@Berkeley
-Student Organization Name: Google@Berkeley
-Date Prepared: August 30, 2015
-Date Amended:
-Date Approved (LEAD Center staff):
-Approved by (LEAD Center staff):
+Constitution of DevOverseer@{CompanyName}
+Student Organization Name: DevOverseer@{CompanyName}
+Date Prepared: April 21, 2021
+Date Ratified: 
 
 
 Article I - Name
 
-The name of this student organization shall be Google@Berkeley.
+The name of this organization shall be DevOverseer@{CompanyName}.
 
 
 Article II - Purpose
 
 The purpose of this organization shall be:
 
-• To unite students who are passionate about technology, leadership, and innovation at {CompanyName}
+• To provide an official way of defining cross-team style guidelines applicable to {CompanyName}'s entire codebase
 
-
-• To promote and organizes activities to educate the students and staff about technology,
-innovation and Google products
-
-
-• To provide personal and professional development for its members
 
 
 Article III - Membership
@@ -46,7 +38,7 @@ the Executive Cabinet, which shall be called by the President.
 Article IV - Officers & Elections
 
 
-Google@Berkeley Executive Board shall consist of the President and the Vice President.
+DevOverseer@{CompanyName} Executive Board shall consist of the President and the Vice President.
 
 
 The Executive Board may create committees and positions within committees if deemed necessary. All committees will be appointed by the President. A member may be appointed to more than one committee. Each Committee Chair will call meetings of their own committee as necessary, and will report to the rest of the Executive Board.
@@ -65,7 +57,7 @@ General Responsibilities
 The President
 
 • Act as the primary spokesman, the chief executive, and the primary signatory of
-Google@Berkeley
+DevOverseer@{CompanyName}
 
 
 • Provide the overall vision and sense of direction for the organization
@@ -84,7 +76,7 @@ Robert’s Rules of Order
 
 
 The Vice President
-• Serve as the primary ASUC liaison for Google@Berkeley
+• Serve as the primary ASUC liaison for DevOverseer@{CompanyName}
 
 
 • Collaborate with the President to attain approval for club events and meetings
@@ -115,12 +107,11 @@ Article V - Legislative Procedures
 Section 1 – Responsibilities and Duties of the Senate
 A. Each representative in the Senate shall have a working knowledge of parliamentary procedure
 and should be responsible for following the recognized guidelines. The current guidelines shall
-be the Rules of Order of the Student Government Association Senate, supplemented by Robert’s
-Rules of Order Newly Revised (the latest edition).
+be Robert’s Rules of Order Newly Revised (the latest edition).
 
 Section 2 – Communication
 A. Each Senator’s prime obligation shall be to represent the interests of his/her constituency.
-B. Any member of the Senate may submit legislation in the form of bills and/or resolutions
+B. Any member of the Senate may submit legislation in the form of bills 
 concerning student interests.
 Section 3 – Quorum
 Quorum for consideration of business shall consist of two-thirds majority of the total voting members of
@@ -131,8 +122,7 @@ A. Definition – The term “bill” shall be any act of the Senate that shall 
 the University.
 B. Bills shall be typewritten and delivered to the Secretary with the following format.
 1. Title must be written single spaced
-2. A brief description of the bill and/or its purpose shall be included in the whereas
-statements
+2. A brief description of the bill
 3. The words “BE IT ENACTED BY THE STUDENT GOVERNMENT ASSOCIATION OF
 TENNESSEE TECHNOLOGICAL UNIVERSITY” followed by the section statements of the
 bill.
@@ -140,7 +130,7 @@ bill.
 
 4. The execution of the bill shall be detailed in individual sections with the final section
 containing the words, “This bill shall take effect immediately upon passage of the
-Student Government Associations, the welfare of the students requiring it.”
+Student Government Associations, the welfare of the developers requiring it.”
 5. The date at which a bill shall take place is subject to the nature of the bill and may be
 changed in the final section statement.
 6. The words “respectfully submitted by” and a list of authors and sponsors.
@@ -155,34 +145,29 @@ Article VI - Constitutional Amendments
 
 
 Any voting member can propose an amendment. Amendments to the Constitution require a
-fifty per cent quorum and a 2/3 vote to be passed. Nevertheless, the president reserves the
-ability to veto any approved amendments.
+fifty per cent quorum and a 2/3 vote to be passed. 
 
-Google@Berkeley can establish by-laws. At least fifty per cent quorum is needed to establish by
+Amendments must be in the following format:
+
+
+
+DevOverseer@{CompanyName} can establish by-laws. At least fifty per cent quorum is needed to establish by
 laws. Two-thirds vote is required to amend them. Any changes in either the Constitution or the
-by-laws will be reported to {CompanyName} CTO by the President.
-
-
-ARTICLE VII: STANDING COMMITTEES
-Each SGA Standing Committee shall have the following officers –
-A. Chairperson - Appointed by the SGA Vice President subject to ratification by the Senate. The
-Chairperson shall be responsible for conducting the meetings of the committee, and for
-reporting the actions of the committee to the SGA Senate.
-B. Vice Chairperson - Elected by the committee. The Vice Chairperson shall conduct the meetings
-of the committee in case of absence or inability of the Chairperson. The Vice Chairperson shall
-automatically advance into Chairmanship in the event of a vacancy of this position.
-C. Secretary - Elected by the committee. The Secretary shall be responsible for recording the
-actions of the committee and for reporting these actions to the SGA Secretary.
+by-laws will be reported to all members by the President.
 
 
 
 ARTICLE XIII: STATEMENT OF COMPLIANCE
-The SGA shall comply with all Tennessee Tech, Tennessee Tech Board, and local, state, and federal
+The DevOverseer@{CompanyName} shall comply with all {CompanyName}, local, state, and federal
 regulations.
+
+
+Article XIV: Ratification
+
+
 
 
 Article VII - Dissolution
 
 
-Dissolution will be decided if 90% of the group members vote to dissolve. Dissolution will also
-take place in case of low membership or merging with another more powerful organization.
+Dissolution will be declared if 90% of the group members vote to dissolve. 
