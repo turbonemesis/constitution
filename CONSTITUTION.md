@@ -36,16 +36,16 @@ D. All other powers and responsibilities granted to the {OrgAbbreviation} by {Co
 Membership is open to {CompanyName} software engineers and/or any software
 stakeholders. 
 
-#### Section 2 - Who is an active voting member
+#### Section 2 - Who is a legislator
 
-Only current software team leads may be active members. Only active members may vote.
+All current software team leads employed at {CompanyName} are to be considered active voting senators.
 
 
 ### Article V - Meetings
 
 #### Section 1 - General meetings 
 
-General meetings are to be held at a reasonable time and location once per year. Any member can join these meetings. Only active members can call meetings.
+General meetings are to be held at a reasonable time and location once per year. Any member can join these meetings. Only active voting senators can call these meetings.
 
 
 ### Article V - Legislative Branch
