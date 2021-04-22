@@ -2,6 +2,7 @@
 
 ## Preamble
 We the Developers of {CompanyName}, in order to form a more perfect Codebase, establish conventions across teams, insure domestic Tranquility, provide for common cyber defense, promote the general Welfare, and secure the blessings of scalability for ourselves and our end-users, do ordain and establish this Constitution for {CompanyName}.
+
 ### Article I - Name
 
 #### Section 1 - Name and Abbreviation
@@ -25,7 +26,7 @@ A. Enact legislation to address all matters related to {CompanyName}'s coding co
 
 #### Section 1 - Who is a member
 
-Membership is open to {CompanyName} software engineers and/or any other software
+Membership is required of all {CompanyName} software engineers and is optional for any other {CompanyName} software
 stakeholders. 
 
 #### Section 2 - Who is an active voting member
@@ -35,7 +36,9 @@ All current software team leads employed at {CompanyName} are to be considered a
 
 ### Article IV - Executive Branch
 
-The executive branch of {OrgAbbreviation} shall consist of a Vice President only.
+#### Section 1 - Vice President
+
+The executive branch of {OrgAbbreviation} shall consist of a Vice President only, whom shall be the CTO of {CompanyName}.
 
 A. The Vice President shall fulfill the following duties:
 
@@ -55,7 +58,9 @@ A. Each Senator’s prime obligation shall be to represent the interests of his 
 B. Any member of the Senate may submit legislation in the form of new "proposals" 
 concerning team interests.
 
-C. General meetings are to be held at a reasonable time and location at least once per year. Only a member of the Senate may call meetings. Any member including those not part of the Senate can join these meetings however.
+#### Section 3 - Meetings
+
+A. General meetings are to be held at a reasonable time and location at least once per year. Only a member of the Senate may call meetings. Any member including those not part of the Senate can join these meetings however.
 
 #### Section 3 – Quorum
 
@@ -71,20 +76,21 @@ B. Definition – The term “proposal” shall be any legislation intended to b
 
 C. Any new proposal's filename shall begin with the date in YYYY-MM-DD format, followed by a brief title of it's contents, followed by "proposal". (ie. 2021-04-22-github-code-review-proposal.md)
 
-D. Proposals shall be submitted electronically with supporting documentation via a github pull-request in the following format:
+D. Proposals shall be submitted electronically with supporting documentation via a github pull-request to the "./rules" folder in the following format:
 
 1. Title must be written single spaced
-2. A brief description of the proposed rule
-3. todo: elaborate here..
+2. Indicate whether it is adding/replacing/removing a rule
+3. Define the programming language(s) affected by the rule, if any
+4. List stakeholders
+5. Provide a thorough description of the proposed rule
 
+E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) additional senate sponsor, in addition to the senate author.
 
-E. A "proposal" will only be allowed to be voted upon in the event the proposal has at least one (1) additional senate sponsor, in addition to the senate author. A proposal will be deemed to be sponsored when a contributor besides the author approves the PR.
+F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal. (each active voting member only has one vote)
 
-F. A "proposal" will only be considered a new "rule" once a simple majority of Senators vote for passage of the proposal after the proposal has been successfully reviewed by a sponsor. (each active voting member only has one vote)
+G. A historical record of all the votes and all proposals shall be kept--regardless of whether they were ultimately approved or not.
 
-G. An historical record of all the votes and all the proposals must be kept at all costs--regardless of whether they were ultimately approved or not.
-
-H. Any newly passed "proposals" shall be immediately merged into the "rules" folder within this repo. (rules)[./rules/]
+H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo, and all members must be notified of the new rule. [./rules/](./rules/)
 
 ### Article VI - Constitutional Amendments
 
