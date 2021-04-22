@@ -20,14 +20,8 @@ The name of this organization shall be DevOverseer@{CompanyName}, hereafter refe
 
 The {OrgAbbreviation} shall be given the power to do the following:
 
-A. Act in all matters addressed within this constitution
-
-B. Implement and revise bylaws and standing rules
-
-C. Enact legislation to address all matters related to {CompanyName} with the purpose of improving
+A. Enact legislation to address all matters related to {CompanyName} with the purpose of improving
 the software experience
-
-D. All other powers and responsibilities granted to the {OrgAbbreviation} by {CompanyName}
 
 ### Article III - Membership
 
@@ -54,25 +48,19 @@ General meetings are to be held at a reasonable time and location once per year.
 
 The Legislative Branch shall be referred to hereafter as the “Senate.”
 
-#### Section 2 – Responsibilities and Duties of the Senate
-
-A. Each representative in the Senate shall have a working knowledge of parliamentary procedure
-and should be responsible for following the recognized guidelines. The current guidelines shall
-be Robert’s Rules of Order Newly Revised (the latest edition).
-
-#### Section 3 – Obligation
+#### Section 2 – Obligation
 
 A. Each Senator’s prime obligation shall be to represent the interests of his or her team.
 
 B. Any member of the Senate may submit legislation in the form of new "proposals" 
 concerning team interests.
 
-#### Section 4 – Quorum
+#### Section 3 – Quorum
 
 Quorum for consideration of new "rules" consist of a fifty percent majority of the total voting members of
 the Senate.
 
-#### Section 5 – Senatorial Action on Rules
+#### Section 4 – Legislation
 
 A. Definition – The term “rule” shall be any act of the Senate that shall affect a change throughout
 the codebase.
@@ -92,20 +80,16 @@ D. A "proposal" is considered a new "rule" when a simple majority of Senators vo
 
 E. At least fifty percent quorum is needed to establish rules. Two-thirds vote is required to amend them.
 
-F. Any passed "rules" shall be approved in github by a ranking member and immediately merged into their corresponding folder within this repo, each bill shall begin with an ever increasing number followed by a brief description of it's contents. (ie. 01-github-code-review-proposal.md)
+F. Any passed "rules" shall be approved in github by a ranking member and immediately merged into their corresponding folder within this repo
+
+1. Each new rule shall begin with an ever increasing number followed by a brief description of it's contents. (ie. 01-github-code-review-proposal.md)
+2. 
 
 ### Article VI - Constitutional Amendments
 
 
 Section 1 - Any voting member can propose an amendment to this Constitution. Amendments to the Constitution require a
 fifty per cent quorum and a 2/3 vote to be passed. 
-
-### Article VII - By-laws
-
-Section 1 - {OrgAbbreviation} can establish by-laws. At least fifty per cent quorum is needed to establish by
-laws. Two-thirds vote is required to amend them. Any changes in either the Constitution or the
-by-laws will be reported to all members by a representative from the Senate.
-
 
 ### ARTICLE XIII: STATEMENT OF COMPLIANCE
 
