@@ -112,22 +112,3 @@ a majority of the {CompanyName} software engineers voting in a special election 
 Section 1 - This Constitution, and the laws created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land.
 
 Section 2 - The active voting members before mentioned, shall be bound by oath or affirmation, to support this Constitution;
-
-
-### Signers
-
-Section 1 - The parties acknowledge and agree that this constitution may be executed by electronic
-signature, which shall be considered as an original signature for all purposes and shall have the same force
-and effect as an original signature
-
-
-Done in convention by the unanimous consent of the active members present this {day spelled out} of {Month spelled out Year spelled out}.
-
-In witness whereof, we have hereunder subscribed our names.
-
-
-{Signatures go here}
-
-
-
-
