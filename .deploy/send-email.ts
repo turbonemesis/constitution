@@ -10,8 +10,8 @@ const fs = require('fs'),
     data = fs.readFileSync(join(__dirname, `assets/attachments/${filename}`));
 
 const msg = {
-    to: 'chase@rentdynamics.com',
-    from: 'rd-flex@zoot.dev',
+    to: process.env.SENDGRID_TO,
+    from: process.env.SENDGRID_FROM,
     subject: 'Constitution Changed',
     text: 'Hello plain world!',
     html: '<p>Hello HTML world!</p>',

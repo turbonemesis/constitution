@@ -35,18 +35,24 @@ stakeholders.
 All current software team leads employed at {CompanyName} are to be considered active voting senators.
 
 
-### Article V - Meetings
+### Article V - Executive Branch
 
-#### Section 1 - General meetings 
+The executive branch of {OrgAbbreviation} shall consist of a Vice President only.
 
-General meetings are to be held at a reasonable time and location once per year. Any member can join these meetings. Only active voting senators can call these meetings.
+C. The Vice President shall fulfill the following duties:
+
+1. Cast votes in the proceedings of the Senate in the case of a tie vote
+
+#### Section 1 - General meetings
+
+General meetings are to be held at a reasonable time and location once per year. Only active voting senators can call meetings. Any member can join these meetings.
 
 
 ### Article V - Legislative Branch
 
 #### Section 1 – Name
 
-The Legislative Branch shall be referred to hereafter as the “Senate.”
+The Legislative Branch shall be referred to hereafter as the “Senate”.
 
 #### Section 2 – Obligation
 
@@ -65,25 +71,22 @@ the Senate.
 A. Definition – The term “rule” shall be any act of the Senate that shall affect a change throughout
 the codebase.
 
-B. Definition – The term “proposal” shall be any legislation intended to become a new rule that has not yet been approved.
+B. Definition – The term “proposal” shall be any legislation intended to become a new "rule" that has yet to be approved.
 
+C. Any new proposal's filename shall begin with the date in YYYY-MM-DD format, followed by a brief title of it's contents, followed by "proposal". (ie. 2021-04-22-github-code-review-proposal.md)
 
-C. Proposals shall be typewritten and delivered via a github [issue|pull-request] in the following format.
+D. Proposals shall be submitted electronically with supporting documentation via a github [issue|pull-request] in the following format:
 
 1. Title must be written single spaced
 2. A brief description of the proposed rule
-3. todo: elaborate here...
-6. The words “respectfully submitted by” and a list of authors and sponsors.
+3. todo: elaborate here..
 
 
-D. A "proposal" is considered a new "rule" when a simple majority of Senators vote for passage over the course of the next 24 hours after being submitted. (each person only has one vote)
+E. A "proposal" will only be allowed to be voted upon in the event the proposal has at least one (1) additional senate sponsor, in addition to the senate author. A proposal will be deemed to be sponsored when a contributor besides the author approves the PR.
 
-E. At least fifty percent quorum is needed to establish rules. Two-thirds vote is required to amend them.
+D. A "proposal" will only be considered a new "rule" once a simple majority of Senators vote for passage of the proposal after the proposal has been successfully reviewed by a sponsor. (each active voting member is only worth one vote)
 
-F. Any passed "rules" shall be approved in github by a ranking member and immediately merged into their corresponding folder within this repo
-
-1. Each new rule shall begin with an ever increasing number followed by a brief description of it's contents. (ie. 01-github-code-review-proposal.md)
-2. 
+F. Any newly passed "proposals" shall be immediately merged into the "rules" folder within this repo. (rules)[./rules/]
 
 ### Article VI - Constitutional Amendments
 
@@ -100,13 +103,13 @@ regulations.
 ### Article XIV - RATIFICATION
 
 Section 1 - This Constitution shall become effective upon ratification by
-a majority of the active members voting in a special election.
+a majority of the {CompanyName} software engineers voting in a special election to ratify it.
 
-### Article VI - Supreme Law of Land
+### Article VI - SUPREME LAW OF LAND
 
 Section 1 - This Constitution, and the laws created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land.
 
-Section 2 - The active members before mentioned, shall be bound by oath or affirmation, to support this Constitution;
+Section 2 - The active voting members before mentioned, shall be bound by oath or affirmation, to support this Constitution;
 
 
 ### ARTICLE XIII: STATEMENT OF COMPLIANCE

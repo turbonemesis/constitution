@@ -7,12 +7,13 @@
 
 # Code Owners section:
 # changes to redux
-store/ @chase2981
-reducers/ @chase2981
+# store/ @chase2981
+# reducers/ @chase2981
 
 # changes to deploy
-deploy/ @levicus @chase2981
-.circleci/ @levicus @chase2981
+# deploy/ @levicus @chase2981
+# .circleci/ @levicus @chase2981
 
 # changes to actual codeowners file
 CODEOWNERS @chase2981 @RentDynamics/qa @levicus
+rules @chase2981 @RentDynamics/qa @levicus
