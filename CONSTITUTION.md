@@ -38,7 +38,7 @@ All current software team leads employed at {CompanyName} are to be considered a
 
 #### Section 1 - Vice President
 
-The executive branch of {OrgAbbreviation} shall consist of a Vice President only, whom shall be the CTO of {CompanyName}.
+The executive branch of {OrgAbbreviation} shall consist of a Vice President only, whom shall be the current CTO of {CompanyName}.
 
 A. The Vice President shall fulfill the following duties:
 
@@ -60,7 +60,7 @@ concerning team interests.
 
 #### Section 3 - Meetings
 
-A. General meetings are to be held at a reasonable time and location at least once per year. Only a member of the Senate may call meetings. Any member including those not part of the Senate can join these meetings however.
+A. General meetings are to be held at a reasonable time and location at least once per year. Only a member of the Senate may call meetings. Any member including those not part of the Senate can join these meetings if invited.
 
 #### Section 3 – Quorum
 
@@ -82,7 +82,9 @@ D. Proposals shall be submitted electronically with supporting documentation via
 2. Indicate whether it is adding/replacing/removing a rule
 3. Define the programming language(s) affected by the rule, if any
 4. List stakeholders
-5. Provide a thorough description of the proposed rule
+5. List sponsor(s)
+6. Provide a thorough description of the proposed rule
+
 
 E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) additional senate sponsor, in addition to the senate author.
 
@@ -111,6 +113,6 @@ a majority of the {CompanyName} software engineers voting in a special election 
 
 ### Article IX - Supreme Law of The Land
 
-Section 1 - This Constitution, and the laws created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land.
+Section 1 - This Constitution, and the laws created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land for the purposes it was designed for.
 
 Section 2 - The active voting members before mentioned, shall be bound by oath or affirmation, to support this Constitution;

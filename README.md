@@ -14,3 +14,5 @@ See the [CODEOWNERS](CODEOWNERS) for ideas on how you can lock down your constit
 See the [.github/](.github/) for ideas on how you can begin to automate the proposals.
 
 See the [.deploy/](.deploy/) for ideas on how you could send out emails on certain actions to fully automate your workflow.
+
+See the [REFERENCES.md](./REFERENCES.md) for a list of helpful references/cool constitution fonts.
