@@ -35,7 +35,7 @@ stakeholders.
 All current software team leads employed at {CompanyName} are to be considered active voting senators.
 
 
-### Article V - Executive Branch
+### Article IV - Executive Branch
 
 The executive branch of {OrgAbbreviation} shall consist of a Vice President only.
 
@@ -96,28 +96,22 @@ H. Any newly passed "proposals" shall be immediately merged into the "rules" fol
 Section 1 - Any voting member can propose an amendment to this Constitution. Amendments to the Constitution require a
 fifty per cent quorum and a 2/3 vote to be passed. 
 
-### ARTICLE XIII: STATEMENT OF COMPLIANCE
+### Article VII: Statement of Compliance
 
 Section 1 - The {OrgAbbreviation} shall comply with all {CompanyName}, local, state, and federal
 regulations.
 
 
-### Article XIV - RATIFICATION
+### Article VIII - Ratification
 
 Section 1 - This Constitution shall become effective upon ratification by
 a majority of the {CompanyName} software engineers voting in a special election to ratify it.
 
-### Article VI - SUPREME LAW OF LAND
+### Article IX - Supreme Law of The Land
 
 Section 1 - This Constitution, and the laws created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land.
 
 Section 2 - The active voting members before mentioned, shall be bound by oath or affirmation, to support this Constitution;
-
-
-### ARTICLE XIII: STATEMENT OF COMPLIANCE
-
-Section 1 - The {OrgAbbreviation} shall comply with all {CompanyName}, local, state, and federal
-regulations.
 
 
 ### Signers
