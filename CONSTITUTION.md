@@ -14,7 +14,7 @@ The name of this organization shall be DevOverseer@{CompanyName}, hereafter refe
 
 #### Section 1 - The purpose of this organization shall be:
 
-• To provide an "official" way of defining cross-team software conventions which are applicable to {CompanyName}'s entire codebase
+• To provide an "official" way of defining cross-team software conventions which are applicable across {CompanyName}'s entire codebase
 
 #### Section 2 – Scope of Power
 
@@ -84,9 +84,11 @@ D. Proposals shall be submitted electronically with supporting documentation via
 
 E. A "proposal" will only be allowed to be voted upon in the event the proposal has at least one (1) additional senate sponsor, in addition to the senate author. A proposal will be deemed to be sponsored when a contributor besides the author approves the PR.
 
-D. A "proposal" will only be considered a new "rule" once a simple majority of Senators vote for passage of the proposal after the proposal has been successfully reviewed by a sponsor. (each active voting member is only worth one vote)
+F. A "proposal" will only be considered a new "rule" once a simple majority of Senators vote for passage of the proposal after the proposal has been successfully reviewed by a sponsor. (each active voting member is only worth one vote)
 
-F. Any newly passed "proposals" shall be immediately merged into the "rules" folder within this repo. (rules)[./rules/]
+G. A record of all the votes and proposals must be kept--regardless of whether they were approved or not.
+
+H. Any newly passed "proposals" shall be immediately merged into the "rules" folder within this repo. (rules)[./rules/]
 
 ### Article VI - Constitutional Amendments
 
