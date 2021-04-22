@@ -30,7 +30,7 @@ the software experience
 Membership is open to {CompanyName} software engineers and/or any software
 stakeholders. 
 
-#### Section 2 - Who is a legislator
+#### Section 2 - Who is an active voting member
 
 All current software team leads employed at {CompanyName} are to be considered active voting senators.
 
