@@ -90,7 +90,7 @@ H. Any newly passed "proposals" shall be immediately merged into the "rules" fol
 
 
 Section 1 - Any voting member can propose an amendment to this Constitution. Amendments to the Constitution require a
-fifty per cent quorum and a 2/3 vote to be passed. 
+fifty percent quorum and a 2/3 vote to be passed. 
 
 ### Article VII: Statement of Compliance
 
@@ -101,7 +101,7 @@ regulations.
 ### Article VIII - Ratification
 
 Section 1 - This Constitution shall become effective upon ratification by
-a majority of the {CompanyName} software engineers voting in a special election to ratify it.
+a majority of the {CompanyName} software engineers voting in a special election to make it the law of the land.
 
 ### Article IX - Supreme Law of The Land
 
