@@ -102,8 +102,8 @@ fifty percent quorum and a 2/3 vote to be passed.
 
 ### Article VII: Statement of Compliance
 
-Section 1 - The {OrgAbbreviation} shall comply with all {CompanyName}, local, state, and federal
-regulations and rules.
+Section 1 - The {OrgAbbreviation} shall comply with all {CompanyName}, local, state, and federal rules and
+regulations.
 
 
 ### Article VIII - Ratification
