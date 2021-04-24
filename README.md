@@ -3,7 +3,7 @@
 
 Software development cross-team constitution proposal
 
-This is just an example, I encourage you to apply these concepts to your own processes and make them even better!
+This is just an example, I encourage you to apply these concepts to your own processes and come up with something even better!
 
 See the [CONSTITUTION.md](CONSTITUTION.md) for ideas on how you could write your own.
 
