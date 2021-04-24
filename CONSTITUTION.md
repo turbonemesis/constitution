@@ -108,7 +108,7 @@ regulations.
 ### Article VIII - Ratification
 
 Section 1 - This Constitution shall become effective upon
-2/3 of all {CompanyName} software engineers voting for its ratification in a special election.
+2/3 of all {CompanyName} software engineers voting for ratification in a special election.
 
 ### Article IX - Supreme Law
 
