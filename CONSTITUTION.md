@@ -63,7 +63,7 @@ A. General meetings are to be held at a reasonable time and location at least on
 
 #### Section 3 – Quorum
 
-Quorum for consideration of new "rules" consist of a fifty percent majority of the total active voting members of
+A. Quorum for consideration of new "rules" consist of a fifty percent majority of the total active voting members of
 the Senate.
 
 #### Section 4 – Legislation
@@ -115,7 +115,7 @@ a majority of the {CompanyName} software engineers voting in a special election.
 
 Section 1 - This Constitution, and the rules created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land for the purposes it was designed for.
 
-Section 2 - The active voting members before mentioned, shall be bound by oath or affirmation, to support this Constitution;
+Section 2 - The active voting members before mentioned, shall be bound by oath or affirmation, to support this Constitution.
 
 ### Article	X	- Dissolution	
 
