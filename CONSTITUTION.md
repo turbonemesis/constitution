@@ -20,7 +20,7 @@ The name of this organization shall be {OrganizationName}, hereafter referred to
 
 The {OrgAbbreviation} shall be given the power to do the following:
 
-A. Enact rules to address all matters related to {CompanyName}'s coding conventions and best practices with the purpose of improving the overall software experience
+A. Enact rules to address all matters related to {CompanyName}'s software coding conventions and best practices with the purpose of improving the overall software experience
 
 ### Article III - Membership
 
@@ -31,7 +31,6 @@ Membership	is	open	to	any	{CompanyName} employee who is interested in software.
 #### Section 2 - Who is an active voting member
 
 All current software team leads employed at {CompanyName} are to be considered active voting members or senators under this constitution.
-
 
 ### Article IV - Executive Branch
 
@@ -108,8 +107,8 @@ regulations.
 
 ### Article VIII - Ratification
 
-Section 1 - This Constitution shall become effective upon ratification by
-a majority of the {CompanyName} software engineers voting in a special election.
+Section 1 - This Constitution shall become effective upon
+2/3 of all {CompanyName} software engineers voting for its ratification in a special election.
 
 ### Article IX - Supreme Law
 
