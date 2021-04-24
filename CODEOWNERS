@@ -17,3 +17,4 @@
 # changes to actual codeowners file
 CODEOWNERS @chase2981 @RentDynamics/qa @levicus
 rules @chase2981 @RentDynamics/qa @levicus
+CONSTITUTION.md @chase2981 @RentDynamics/qa @levicus
