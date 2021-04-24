@@ -1,7 +1,7 @@
 # Constitution
 
 ## Preamble
-We the Developers of {CompanyName}, in order to form a more perfect Codebase, establish conventions across teams, insure domestic Tranquility, provide for common cyber defense, promote the general Welfare, and secure the blessings of scalability for ourselves and our end-users, do ordain and establish this Constitution for {CompanyName}.
+We the Developers of {CompanyName}, in order to form a more perfect Codebase, establish software conventions across teams, insure domestic Tranquility, provide for common cyber defense, promote the general Welfare, and secure the blessings of scalability for ourselves and our end-users, do ordain and establish this Constitution for {CompanyName}.
 
 ### Article I - Name
 
@@ -20,14 +20,13 @@ The name of this organization shall be {OrganizationName}, hereafter referred to
 
 The {OrgAbbreviation} shall be given the power to do the following:
 
-A. Enact legislation to address all matters related to {CompanyName}'s coding conventions and best practices with the purpose of improving the overall software experience
+A. Enact rules to address all matters related to {CompanyName}'s coding conventions and best practices with the purpose of improving the overall software experience
 
 ### Article III - Membership
 
 #### Section 1 - Who is a member
 
-Membership is required of all {CompanyName} software engineers and is optional for any other {CompanyName} software
-stakeholders. 
+Membership	is	open	to	any	{CompanyName} employee who is interested in software.
 
 #### Section 2 - Who is an active voting member
 
@@ -42,7 +41,7 @@ The executive branch of {OrgAbbreviation} shall consist of a Vice President only
 
 A. The Vice President shall fulfill the following duties:
 
-1. Cast votes in the proceedings of the Senate in the case of a tie vote
+1. Cast votes in the proceedings of the Senate in the case of a tie vote.
 
 
 ### Article V - Legislative Branch
@@ -70,29 +69,30 @@ the Senate.
 #### Section 4 – Legislation
 
 A. Definition – The term “rule” shall be any act of the Senate that shall command a change throughout
-one or more codebases.
+the codebase.
 
-B. Definition – The term “proposal” shall be any legislation intended to become a new "rule" that has yet to be approved.
+B. Definition – The term “proposal” shall be any new legislation intended to become a "rule" that has yet to be approved.
 
 C. Any new proposal's filename shall begin with the date in YYYY-MM-DD format, followed by a brief title of it's contents, followed by "proposal". (ie. 2021-04-22-github-code-review-proposal.md)
 
 D. Proposals shall be submitted electronically with supporting documentation via a github pull-request to the "./rules" folder in the following format:
 
-1. Title must be written single spaced
-2. Indicate whether it is adding/replacing/removing a rule
+1. Title
+2. Indicate whether it is adding, replacing, or removing a rule
 3. Define the programming language(s) affected by the rule, if any
-4. List stakeholders
-5. List sponsor(s)
-6. Provide a thorough description of the proposed rule
+4. Indicate the type of change proposed: "Style guide rule" or "Other"
+5. List stakeholder(s)
+6. List sponsor(s)
+7. Provide a thorough description of the proposed rule and the intended scope of the change proposed.
 
 
 E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) additional senate sponsor, in addition to the senate author.
 
 F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal. (each active voting member only has one vote)
 
-G. A historical record of all the votes and all proposals shall be kept--regardless of whether they were ultimately approved or not.
+G. A historical record of all the votes cast and all proposals voted on shall be kept up-to-date in github on each proposal.
 
-H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo, and all members must be notified of the new rule. [./rules/](./rules/)
+H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo, and all active members must be notified of the new rule. [./rules/](./rules/)
 
 ### Article VI - Constitutional Amendments
 
@@ -109,10 +109,14 @@ regulations.
 ### Article VIII - Ratification
 
 Section 1 - This Constitution shall become effective upon ratification by
-a majority of the {CompanyName} software engineers voting in a special election to make it the law of the land.
+a majority of the {CompanyName} software engineers voting in a special election.
 
-### Article IX - Supreme Law of The Land
+### Article IX - Supreme Law
 
-Section 1 - This Constitution, and the laws created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land for the purposes it was designed for.
+Section 1 - This Constitution, and the rules created pursuant thereof; under the authority of {CompanyName}, shall be the supreme law of the land for the purposes it was designed for.
 
 Section 2 - The active voting members before mentioned, shall be bound by oath or affirmation, to support this Constitution;
+
+### Article	X	- Dissolution	
+
+Section 1 - Dissolution	will	be	decided	if there is a fifty percent quorum and 2/3	of	the	active group	members	vote	to	dissolve.
