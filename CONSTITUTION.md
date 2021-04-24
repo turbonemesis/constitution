@@ -1,7 +1,7 @@
 # Constitution
 
 ## Preamble
-We the Developers of {CompanyName}, in order to form a more perfect Codebase, establish software conventions across teams, insure domestic Tranquility, provide for common cyber defense, promote the general Welfare, and secure the blessings of scalability for ourselves and our end-users, do ordain and establish this Constitution for {CompanyName}.
+We the Developers of {CompanyName}, in order to form a more perfect Codebase, establish Software Conventions across teams, insure employee Tranquility, provide for common Cyber Defense, promote the general Welfare, and secure the blessings of Scalability for ourselves and our End-users, do ordain and establish this Constitution for {CompanyName}.
 
 ### Article I - Name
 
@@ -20,7 +20,7 @@ The name of this organization shall be {OrganizationName}, hereafter referred to
 
 The {OrgAbbreviation} shall be given the power to do the following:
 
-A. Enact rules to address all matters related to {CompanyName}'s software coding conventions and best practices with the purpose of improving the overall software experience
+A. Enact rules to address all matters related to {CompanyName}'s software conventions and best practices with the purpose of improving the overall software experience
 
 ### Article III - Membership
 
