@@ -11,9 +11,9 @@ https://www.usconstitution.cc/
 
 
 #### Student Constitutions
-https://www.tntech.edu/sga/constitution.php
+https://callink.berkeley.edu/organization/google/documents/view/363403 **
 
-https://callink.berkeley.edu/organization/google/documents/view/363403
+https://www.tntech.edu/sga/constitution.php
 
 
 #### Other
