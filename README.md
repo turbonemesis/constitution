@@ -15,4 +15,4 @@ See the [.github/](.github/) for ideas on how you can begin to automate the prop
 
 See the [.deploy/](.deploy/) for ideas on how you could send out emails on certain actions to fully automate your workflow.
 
-See the [REFERENCES.md](./REFERENCES.md) for a list of helpful references/cool constitution fonts.
+See the [REFERENCES.md](./REFERENCES.md) for a list of student constitutions used to create this example/other helpful references/cool constitution fonts.
