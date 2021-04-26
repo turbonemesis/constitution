@@ -22,9 +22,9 @@ See the [slides.pdf](./slides.pdf) for more information on the original presenta
 
 Just imagine how hard a country would be to maintain without a constitution!
 
-Bottom line is you need everyone's buy-in for any coding standards to be effective across an entire organization, and to make your code easier to maintain. 
+Bottom line is you need everyone's buy-in in order for any coding standards to be effective across an entire organization, and you need effective coding standards in order to make your code easier to maintain. 
 
-One excellent way to get everyone's buy-in is to have everyone vote on the subject matter, and the voting requirement usually results in the author needing to alter the subject matter in a way that appeases everyone so that the author can get enough votes to get it passed--that my friends is what I encourage you to do with this. 
+One excellent way to get everyone's buy-in is to have everyone vote on the subject matter, and the voting requirement usually results in the author needing to alter the subject matter in a way that appeases to everyone so that the author can get enough votes to get it passed--that my friends is what I encourage you to do with this. 
 
 If someone is scared that this is too official, add a clause saying this is only so serious and/or add a clause detailing mitigation. 
 
