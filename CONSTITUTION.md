@@ -91,7 +91,7 @@ D. Proposals shall be submitted electronically with supporting documentation via
 
 E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) additional senate sponsor, in addition to the senate author.
 
-F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a quorum is present. (each active voting member only has one vote)
+F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a fifty percent quorum is present. (each active voting member only has one vote)
 
 G. A historical record of all the votes cast and all the proposals voted on shall be kept up-to-date in github on each proposal.
 
