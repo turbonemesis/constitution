@@ -1,7 +1,7 @@
 # constitution
 [![Node.js CI](https://github.com/turbonemesis/constitution/actions/workflows/node.js.yml/badge.svg)](https://github.com/turbonemesis/constitution/actions/workflows/node.js.yml)
 
-Software development cross-team constitution proposal
+Software development cross-team constitution idea
 
 
 This is just a rough-draft example, I encourage you to apply these underlying concepts to your own processes and come up with something even better!
@@ -24,8 +24,8 @@ Just imagine how hard a country would be to maintain without a constitution!
 
 Bottom line is you need everyone's buy-in in order for any coding standards to be effective across an entire organization, and you need effective coding standards in order to make your code easier to maintain. 
 
-One excellent way to get everyone's buy-in is to have everyone vote on the subject matter, and the voting requirement usually results in the author needing to alter the subject matter in a way that appeases everyone so that the author can get enough votes to get it passed--that my friends is what I encourage you to do in both the drafting of the constitution itself and in any rules proposed thereafter. 
+One excellent way to get everyone's buy-in is to have everyone vote on the subject matter, and the voting requirement itself usually results in the author needing to alter the subject matter in a way that appeases everyone so that the author can get enough votes to get it passed--that my friends is what I encourage you to do in both the drafting of the constitution itself and in any rules proposed thereafter. 
 
-If someone is scared that this is too official, add a clause saying this is only so serious and/or add a clause detailing mitigation to appease them. 
+If someone is scared that this is too official, add a clause saying this is only so serious and/or add a clause detailing effective mitigation to appease them. 
 
 It's up to you what you ultimately agree to as a team, but together in agreement you can do literally anything.
