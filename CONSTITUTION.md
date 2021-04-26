@@ -89,11 +89,11 @@ D. Proposals shall be submitted electronically with supporting documentation via
 
 E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) additional senate sponsor, in addition to the senate author.
 
-F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal. (each active voting member only has one vote)
+F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a quorum is present. (each active voting member only has one vote)
 
-G. A historical record of all the votes cast and all proposals voted on shall be kept up-to-date in github on each proposal.
+G. A historical record of all the votes cast and all the proposals voted on shall be kept up-to-date in github on each proposal.
 
-H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo, and all active members must be notified of the new rule. [./rules/](./rules/)
+H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all {CompanyName} software engineers must immediately be notified of the new rule. [./rules/](./rules/)
 
 ### Article VI - Constitutional Amendments
 
