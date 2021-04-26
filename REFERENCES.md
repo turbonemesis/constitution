@@ -25,3 +25,8 @@ https://www.p22.com/family-Declaration
 
 https://www.myfonts.com/fonts/p22/declaration/blackletter/
 
+#### Default Angular Style Guide(s)
+https://angular.io/guide/styleguide
+
+https://github.com/johnpapa/angular-styleguide
+

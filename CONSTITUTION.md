@@ -40,7 +40,8 @@ The executive branch of {OrgAbbreviation} shall consist of a Vice President only
 
 A. The Vice President shall fulfill the following duties:
 
-1. Cast votes in the proceedings of the Senate in the case of a tie vote.
+1. Cast votes in the proceedings of the Senate in the case of a tie vote
+2. Act as a	parliamentarian	in the event of any constitutional	questions/disputes
 
 
 ### Article V - Legislative Branch
