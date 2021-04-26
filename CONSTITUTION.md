@@ -60,6 +60,7 @@ concerning team interests.
 #### Section 3 - Meetings
 
 A. General meetings are to be held at a reasonable time and location at least once per year. Only a member of the Senate may call meetings. Any member including those not part of the Senate can join these meetings if invited.
+
 B. All official meetings shall be carried out in accordance with Robert’s Rules of Order. (the latest version)
 
 #### Section 3 – Quorum
