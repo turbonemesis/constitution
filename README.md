@@ -3,9 +3,7 @@
 
 Software development cross-team constitution idea
 
-We hope that this helps, but please keep in mind that we’re not lawyers and that we make mistakes like everyone else. For that reason, this information is provided on an “as-is” basis and makes no warranties regarding any information or licenses provided herein, and disclaims liability for damages resulting from using any of this information. If you have any questions regarding the right approach for your team or any other legal issues relating to this, it’s always best to consult with a professional.
-
-This is just a rough-draft example, I encourage you to apply these underlying concepts to your own processes and come up with something even better!
+We hope that this helps, but please keep in mind that we’re not lawyers and that we make mistakes like everyone else. For that reason, this information is provided on an “as-is” basis and makes no warranties regarding any information or licenses provided in this repo and beyond, and disclaims liability for damages resulting from using any of this information. If you have any questions regarding the right approach for your team or any other legal issues relating to this, it’s always best to consult with a professional.
 
 > One excellent way to get everyone's buy-in is to have everyone vote, and the voting requirement itself usually results in the author needing to alter their proposal in a way that appeases everyone so that the author can then get enough votes to get whatever it is passed--that my friends is what I encourage you to do both in the drafting of a constitution itself and in any proposals that are brought up for vote thereafter--alter them to appease as many people as possible--that's one of the many advantages of voting.
 
