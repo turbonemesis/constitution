@@ -3,7 +3,7 @@
 
 Software development cross-team constitution idea
 
-> One excellent way to get everyone's buy-in is to have everyone vote, and the voting requirement itself usually results in any author needing to alter their proposal in a way that appeases everyone so that the author can then get enough votes to get whatever it is passed--that my friends is what I encourage you to do both in the drafting of a constitution itself and in any proposals that are brought up for vote thereafter--alter them to appease as many people as possible.
+> One excellent way to get everyone's buy-in is to have everyone vote, and the voting requirement itself usually results in the author needing to alter their proposal in a way that appeases everyone so that the author can then get enough votes to get whatever it is passed--that my friends is what I encourage you to do both in the drafting of a constitution itself and in any proposals that are brought up for vote thereafter--alter them to appease as many people as possible.
 
 See the [CONSTITUTION.md](CONSTITUTION.md) for ideas on how you could write your own.
 
