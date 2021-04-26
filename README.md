@@ -3,8 +3,9 @@
 
 Software development cross-team constitution idea
 
-
 This is just a rough-draft example, I encourage you to apply these underlying concepts to your own processes and come up with something even better!
+
+> One excellent way to get everyone's buy-in is to have everyone vote, and the voting requirement itself usually results in the author needing to alter their proposal in a way that appeases everyone so that the author can then get enough votes to get whatever it is passed--that my friends is what I encourage you to do both in the drafting of a constitution itself and in any proposals that are brought up for vote thereafter--alter it to appease as many people as possible--that's the whole point of voting.
 
 See the [CONSTITUTION.md](CONSTITUTION.md) for ideas on how you could write your own.
 
@@ -23,8 +24,6 @@ See the [slides.pdf](./slides.pdf) for more information on the original presenta
 Just imagine how hard a country would be to maintain without a constitution!
 
 Bottom line is you need everyone's buy-in in order for any coding standards to be effective across an entire organization, and you need effective coding standards in order to make your code easier to maintain. 
-
-+ One excellent way to get everyone's buy-in is to have everyone vote, and the voting requirement itself usually results in the author needing to alter their proposal in a way that appeases everyone so that the author can then get enough votes to get whatever it is passed--that my friends is what I encourage you to do both in the drafting of a constitution itself and in any proposals that are brought up for vote thereafter--alter it to appease as many people as possible--that's the whole point of voting.
 
 If someone is scared that this might be too official, you can always add a clause saying this is only so serious to appease them. 
 
