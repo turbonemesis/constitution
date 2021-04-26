@@ -7,30 +7,30 @@ We the Developers of {CompanyName}, in order to form a more perfect Codebase, es
 
 #### Section 1 - Name and Abbreviation
 
-The name of this organization shall be {OrganizationName}, hereafter referred to as {OrgAbbreviation}.
+A. The name of this organization shall be {OrganizationName}, hereafter referred to as {OrgAbbreviation}.
 
 
 ### Article II - Purpose & Powers
 
 #### Section 1 - The purpose of this organization shall be:
 
-• To provide an "official" way of defining cross-team software conventions which are applicable across {CompanyName}'s entire codebase
+A. To provide an "official" way of defining cross-team software conventions which are applicable across {CompanyName}'s entire codebase
 
 #### Section 2 – Scope of Power
 
-The {OrgAbbreviation} shall be given the power to do the following:
+A. The {OrgAbbreviation} shall be given the power to do the following:
 
-A. Enact rules to address all matters related to {CompanyName}'s software conventions and best practices with the purpose of improving software maintainability and/or improving the overall software development process
+1. Enact rules to address all matters related to {CompanyName}'s software conventions and best practices with the purpose of improving software maintainability and/or improving the overall software development process
 
 ### Article III - Membership
 
 #### Section 1 - Who is a member
 
-Membership	is	open	to	any	{CompanyName} employee who is interested in software.
+A. Membership	is	open	to	any	{CompanyName} employee who is interested in software.
 
 #### Section 2 - Who is an active voting member
 
-All current software team leads employed at {CompanyName} are to be considered active voting members or "Senators" under this constitution.
+A. All current software team leads employed at {CompanyName} are to be considered active voting members or "Senators" under this constitution.
 
 ### Article IV - Executive Branch
 
@@ -51,7 +51,7 @@ The Legislative Branch of {OrgAbbreviation} shall consist of a "Senate" only, wh
 
 #### Section 1 – Name
 
-The Legislative Branch shall be referred to hereafter as the “Senate”.
+A. The Legislative Branch shall be referred to hereafter as the “Senate”.
 
 #### Section 2 – Obligation
 
