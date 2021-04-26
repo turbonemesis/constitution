@@ -5,7 +5,7 @@ Software development cross-team constitution idea
 
 We hope that this helps, but please keep in mind that we’re not lawyers and that we make mistakes like everyone else. For that reason, this information is provided on an “as-is” basis and makes no warranties regarding any information or licenses provided in this repo and beyond, and disclaims liability for damages resulting from using any of this information. If you have any questions regarding the right approach for your team or any other legal issues relating to this, it’s always best to consult with a professional.
 
-> One excellent way to get everyone's buy-in is to have everyone vote, and the voting requirement itself usually results in the author needing to alter their proposal in a way that appeases everyone so that the author can then get enough votes to get whatever it is passed--that my friends is what I encourage you to do both in the drafting of a constitution itself and in any proposals that are brought up for vote thereafter--alter them to appease as many people as possible--that's one of the many advantages of voting.
+> One excellent way to get everyone's buy-in is to have everyone vote, and the voting requirement itself usually results in any author needing to alter their proposal in a way that appeases everyone so that the author can then get enough votes to get whatever it is passed--that my friends is what I encourage you to do both in the drafting of a constitution itself and in any proposals that are brought up for vote thereafter--alter them to appease as many people as possible--that's one of the many advantages of voting.
 
 See the [CONSTITUTION.md](CONSTITUTION.md) for ideas on how you could write your own.
 
@@ -24,7 +24,5 @@ See the [slides.pdf](./slides.pdf) for more information on the original presenta
 Just imagine how hard a country would be to maintain without a constitution!
 
 Bottom line is you need everyone's buy-in in order for any coding standards to be effective across an entire organization, and you need effective coding standards in order to make your code easier to maintain. 
-
-If someone is scared that this might be too official, you can always add a clause saying this is only so serious to appease them. 
 
 It's up to you what you ultimately agree to as a team, but together in agreement you can do literally anything.
