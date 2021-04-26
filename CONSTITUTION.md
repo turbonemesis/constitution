@@ -20,7 +20,7 @@ The name of this organization shall be {OrganizationName}, hereafter referred to
 
 The {OrgAbbreviation} shall be given the power to do the following:
 
-A. Enact rules to address all matters related to {CompanyName}'s software conventions and best practices with the purpose of improving the overall software experience
+A. Enact rules to address all matters related to {CompanyName}'s software conventions and best practices with the purpose of improving software maintainability and/or improving the overall software development process
 
 ### Article III - Membership
 
@@ -40,8 +40,9 @@ The executive branch of {OrgAbbreviation} shall consist of a Vice President only
 
 A. The Vice President shall fulfill the following duties:
 
-1. Cast votes in the proceedings of the Senate in the case of a tie vote
-2. Act as a	parliamentarian	in the event of any constitutional	questions/disputes
+1. Attend all official meetings of the Senate
+2. Cast votes in the proceedings of the Senate in the case of a tie vote
+3. Act as a	parliamentarian	in the event of any constitutional questions or disputes
 
 
 ### Article V - Legislative Branch
