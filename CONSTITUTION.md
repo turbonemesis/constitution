@@ -30,7 +30,7 @@ Membership	is	open	to	any	{CompanyName} employee who is interested in software.
 
 #### Section 2 - Who is an active voting member
 
-All current software team leads employed at {CompanyName} are to be considered active voting members or senators under this constitution.
+All current software team leads employed at {CompanyName} are to be considered active voting members or "Senators" under this constitution.
 
 ### Article IV - Executive Branch
 
@@ -55,14 +55,13 @@ The Legislative Branch shall be referred to hereafter as the “Senate”.
 
 A. Each Senator’s prime obligation shall be to represent the interests of his or her team.
 
-B. Any member of the Senate may submit legislation in the form of new "proposals" 
-concerning team interests.
+B. Any member of the Senate may submit legislation in the form of one or more new "proposal(s)".
 
 #### Section 3 - Meetings
 
-A. General meetings are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active members prior to any meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings if invited.
+A. General meetings are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active voting members prior to any meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings upon invitation only.
 
-B. Official senate meetings should be carried out in accordance with Robert’s Rules of Order. (the latest version)
+B. It is recommended that official senate meetings be carried out in accordance with Robert’s Rules of Order, (the latest version) although this is not a hard requirement.
 
 #### Section 3 – Quorum
 
@@ -74,11 +73,11 @@ the Senate.
 A. Definition – The term “rule” shall be any act of the Senate that shall command a change throughout
 the codebase.
 
-B. Definition – The term “proposal” shall be any new legislation intended to become a "rule" that has yet to be approved.
+B. Definition – The term “proposal” shall be any new legislation intended to become a "rule" that has yet to be formally approved through voting.
 
-C. Any new proposal's filename shall begin with the date in YYYY-MM-DD format, followed by a brief title of it's contents, followed by "proposal". (ie. 2021-04-22-github-code-review-proposal.md)
+C. Any new proposal's filename shall begin with the date in YYYY-MM-DD format, followed by a brief title of it's contents, followed by "proposal.md". (ie. 2021-04-22-github-code-review-proposal.md)
 
-D. Proposals shall be submitted electronically with supporting documentation via a github pull-request to the "./rules" folder in the following format:
+D. Proposals shall be submitted electronically with supporting documentation via a github pull-request to the "./rules" folder within this repo in the following format:
 
 1. Title
 2. Indicate whether it is adding, replacing, or removing a rule
@@ -86,16 +85,17 @@ D. Proposals shall be submitted electronically with supporting documentation via
 4. Indicate the type of change proposed: "Style guide rule" or "Other"
 5. List stakeholder(s)
 6. List sponsor(s)
-7. Provide a thorough description of the proposed rule and the intended scope of the change proposed.
+7. Intended Scope of Change Proposed
+8. Provide a thorough description of the proposed change that will act as documentation if approved.
 
 
-E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) additional senate sponsor, in addition to the senate author.
+E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) senate sponsor, in addition to the senate author.
 
-F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a fifty percent quorum votes for or against its passage. (each active voting member only has one vote)
+F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a fifty percent quorum votes for or against its passage within a 48 hour timeframe. (each active voting member only has one vote)
 
 G. A historical record of all the votes cast and all the proposals voted on shall be kept up-to-date in github.
 
-H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all potential stakeholders must immediately be notified of the new rule. [./rules/](./rules/)
+H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all stakeholders must immediately be notified of the new rule. [./rules/](./rules/)
 
 ### Article VI - Constitutional Amendments
 
