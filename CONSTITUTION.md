@@ -47,19 +47,21 @@ A. The Vice President shall fulfill the following duties:
 
 ### Article V - Legislative Branch
 
+The Legislative Branch of {OrgAbbreviation} shall consist only of a "Senate", containing all active voting members or "Senators".
+
 #### Section 1 – Name
 
 The Legislative Branch shall be referred to hereafter as the “Senate”.
 
 #### Section 2 – Obligation
 
-A. Each Senator’s prime obligation shall be to represent the interests of his or her team.
+A. Each Senator’s prime obligation shall be to represent the software interests of his or her team.
 
-B. Any member of the Senate may submit legislation in the form of one or more new "proposal(s)".
+B. Any member of the Senate may submit legislation in the form of one or more "software proposal(s)", hereafter referred to as "proposal(s)".
 
 #### Section 3 - Meetings
 
-A. General meetings are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active voting members prior to any meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings upon invitation only.
+A. General meetings are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active voting members prior to any meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings upon invitation.
 
 B. It is recommended that official senate meetings be carried out in accordance with Robert’s Rules of Order, (the latest version) although this is not a hard requirement.
 
@@ -91,11 +93,11 @@ D. Proposals shall be submitted electronically with supporting documentation via
 
 E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) senate sponsor, in addition to the senate author.
 
-F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a fifty percent quorum votes for or against its passage within a 48 hour timeframe. (each active voting member only has one vote)
+F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, given a fifty percent quorum votes for or against the proposal's passage within a 48 hour timeframe of the initial vote. (each active voting member only has one vote)
 
-G. A historical record of all the votes cast and all the proposals voted on shall be kept up-to-date in github.
+G. A historical record of all votes cast and all proposals voted on shall be kept up-to-date in github somewhere.
 
-H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all stakeholders must immediately be notified of the new rule. [./rules/](./rules/)
+H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all stakeholders shall be immediately notified of the new rule(s). [./rules/](./rules/)
 
 ### Article VI - Constitutional Amendments
 
