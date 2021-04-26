@@ -60,9 +60,9 @@ concerning team interests.
 
 #### Section 3 - Meetings
 
-A. General meetings are to be held at a reasonable time and location at least once per year. Only a member of the Senate may call meetings. Any member including those not part of the Senate can join these meetings if invited.
+A. General meetings are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active members prior to any meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings if invited.
 
-B. All official meetings shall be carried out in accordance with Robert’s Rules of Order. (the latest version)
+B. Official senate meetings should be carried out in accordance with Robert’s Rules of Order. (the latest version)
 
 #### Section 3 – Quorum
 
@@ -91,11 +91,11 @@ D. Proposals shall be submitted electronically with supporting documentation via
 
 E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) additional senate sponsor, in addition to the senate author.
 
-F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a fifty percent quorum is present. (each active voting member only has one vote)
+F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, assuming a fifty percent quorum votes for or against its passage. (each active voting member only has one vote)
 
-G. A historical record of all the votes cast and all the proposals voted on shall be kept up-to-date in github on each proposal.
+G. A historical record of all the votes cast and all the proposals voted on shall be kept up-to-date in github.
 
-H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all {CompanyName} software engineers must immediately be notified of the new rule. [./rules/](./rules/)
+H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all potential stakeholders must immediately be notified of the new rule. [./rules/](./rules/)
 
 ### Article VI - Constitutional Amendments
 
