@@ -47,7 +47,7 @@ A. The Vice President shall fulfill the following duties:
 
 ### Article V - Legislative Branch
 
-The Legislative Branch of {OrgAbbreviation} shall consist only of a "Senate", containing all active voting members or "Senators".
+The Legislative Branch of {OrgAbbreviation} shall consist of a "Senate" only, which shall include all active voting members or "Senators".
 
 #### Section 1 – Name
 
@@ -61,19 +61,19 @@ B. Any member of the Senate may submit legislation in the form of one or more "s
 
 #### Section 3 - Meetings
 
-A. General meetings are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active voting members prior to any meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings upon invitation.
+A. General meetings of the Senate are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active voting members prior to any official meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings upon invitation.
 
-B. It is recommended that official senate meetings be carried out in accordance with Robert’s Rules of Order, (the latest version) although this is not a hard requirement.
+B. It is recommended that official Senate meetings be carried out in accordance with Robert’s Rules of Order, (the latest version) although this is not a hard requirement.
 
 #### Section 3 – Quorum
 
-A. Quorum for consideration of new "rules" consist of a fifty percent majority of the total active voting members of
+A. Quorum for consideration of any new "rules" consist of a fifty percent majority of the total active voting members of
 the Senate.
 
 #### Section 4 – Legislation
 
 A. Definition – The term “rule” shall be any act of the Senate that shall command a change throughout
-the codebase.
+the cross-team codebase.
 
 B. Definition – The term “proposal” shall be any new legislation intended to become a "rule" that has yet to be formally approved through voting.
 
@@ -87,17 +87,16 @@ D. Proposals shall be submitted electronically with supporting documentation via
 4. Indicate the type of change proposed: "Style guide rule" or "Other"
 5. List stakeholder(s)
 6. List sponsor(s)
-7. Intended Scope of Change Proposed
-8. Provide a thorough description of the proposed change that will act as documentation if approved.
-
+7. Intended scope of change proposed
+8. Provide a thorough description of the proposed change that will act as the official documentation if approved.
 
 E. A "proposal" will only be allowed to be voted upon if the proposal has at least one (1) senate sponsor, in addition to the senate author.
 
 F. A "proposal" will only be considered a new approved "rule" once a simple majority of Senators vote for passage of the proposal, given a fifty percent quorum votes for or against the proposal's passage within a 48 hour timeframe of the initial vote. (each active voting member only has one vote)
 
-G. A historical record of all votes cast and all proposals voted on shall be kept up-to-date in github somewhere.
+G. A historical record of all votes cast and all proposals voted on shall be kept up-to-date in github in an organized manner.
 
-H. Any newly passed "proposals" shall immediately be merged into the "rules" folder within this repo and all stakeholders shall be immediately notified of the new rule(s). [./rules/](./rules/)
+H. Any newly passed "proposals" shall be merged into the "rules" folder within this repo and all stakeholders shall be notified of the new rule(s) in a timely manner. [./rules/](./rules/)
 
 ### Article VI - Constitutional Amendments
 
