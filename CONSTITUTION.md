@@ -61,9 +61,9 @@ B. Any member of the Senate may submit legislation in the form of one or more "s
 
 #### Section 3 - Meetings
 
-A. General meetings of the Senate are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active voting members prior to any official meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings upon invitation.
+A. General meetings of the Senate are to be held at a reasonable time and location at least once per year. At least 48 hours notice shall be given to all active voting members prior to any official meeting. Only a member of the Senate may officially call meetings. Any member including those not part of the Senate may join these meetings if invited.
 
-B. It is recommended that official Senate meetings be carried out in accordance with Robert’s Rules of Order, (the latest version) although this is not a hard requirement.
+B. It is recommended that all official Senate meetings be carried out in accordance with Robert’s Rules of Order, (the latest version) although this is not a hard requirement.
 
 #### Section 3 – Quorum
 
@@ -123,4 +123,6 @@ Section 2 - The active voting members before mentioned, shall be bound by oath o
 
 ### Article	X	- Dissolution	
 
-Section 1 - Dissolution	will	be	decided	if there is a fifty percent quorum and 2/3	of	the	active group	members	vote	to	dissolve.
+Section 1 - Dissolution	will be	decided	if there is a fifty percent quorum and 2/3 of	the	active group members vote	to dissolve.
+
+Section 2 - Dissolution may also be decided at any time by a written notice from the current President of {CompanyName}.
