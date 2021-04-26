@@ -15,6 +15,10 @@ https://callink.berkeley.edu/organization/google/documents/view/363403 **
 
 https://www.tntech.edu/sga/constitution.php
 
+https://www.mtu.edu/student-leadership/student-orgs/form-new-stuorg/constitution/sample-ros-constitution.pdf
+
+https://ysu.edu/student-activities/how-prepare-your-student-organizations-constitution-and-laws
+
 
 #### Other
 https://www.wikihow.com/Write-a-Constitution
